@@ -2,3 +2,4 @@ streamlit>=1.0.0
 SpeechRecognition>=3.8.1
 sounddevice>=0.4.6
 numpy>=1.21.0
+ibm-watson>=8.1.0  # Si vous utilisez IBM Watson
